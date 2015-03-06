@@ -21,6 +21,15 @@ public partial class CurrencyConverter {
     protected global::System.Web.UI.HtmlControls.HtmlInputText US;
     
     /// <summary>
+    /// Currency control.
+    /// </summary>
+    /// <remarks>
+    /// Auto-generated field.
+    /// To modify move field declaration from designer file to code-behind file.
+    /// </remarks>
+    protected global::System.Web.UI.HtmlControls.HtmlSelect Currency;
+    
+    /// <summary>
     /// Convert control.
     /// </summary>
     /// <remarks>
@@ -28,6 +37,24 @@ public partial class CurrencyConverter {
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
     protected global::System.Web.UI.HtmlControls.HtmlInputSubmit Convert;
+    
+    /// <summary>
+    /// ShowGraph control.
+    /// </summary>
+    /// <remarks>
+    /// Auto-generated field.
+    /// To modify move field declaration from designer file to code-behind file.
+    /// </remarks>
+    protected global::System.Web.UI.HtmlControls.HtmlInputSubmit ShowGraph;
+    
+    /// <summary>
+    /// Graph control.
+    /// </summary>
+    /// <remarks>
+    /// Auto-generated field.
+    /// To modify move field declaration from designer file to code-behind file.
+    /// </remarks>
+    protected global::System.Web.UI.HtmlControls.HtmlImage Graph;
     
     /// <summary>
     /// Result control.

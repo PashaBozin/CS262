@@ -66,6 +66,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="pic0.png" />
+    <Content Include="pic1.png" />
+    <Content Include="pic2.png" />
     <Content Include="Web.config" />
     <Content Include="CurrencyConverter.aspx" />
   </ItemGroup>
